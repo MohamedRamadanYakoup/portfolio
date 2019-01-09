@@ -284,6 +284,6 @@ main {
     main .lg-heading {
       align-content: center;
       margin-top: 1rem;
-      font-size: 3rem; }
+      font-size: 2rem; }
   .projects {
     grid-template-columns: 1fr; } }
