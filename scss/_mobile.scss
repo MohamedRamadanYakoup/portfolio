@@ -62,12 +62,16 @@
             margin-top: 10vh;
         }
         .lg-heading {
-            align-content: center;
             margin-top: 1rem;
-            font-size: 2rem;
+            font-size: 3rem;
         }
     }
     .projects {
         grid-template-columns: 1fr;
+    }
+    .boxes {
+        div {
+            font-size: 1.2rem;
+        }
     }
 }
